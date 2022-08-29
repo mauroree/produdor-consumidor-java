@@ -1,2 +1,2 @@
-# produdor-consumidor-java
- Exemplo de problema do produtor e consumidor em Java.
+# produtor-consumidor-thread
+produtor consumidor em java
